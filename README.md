@@ -26,31 +26,31 @@ Missing data, duplicate entries, and irrelevant data points were addressed to en
 A new column was created to categorize transactions into broader categories based on 'TransactionType'.
 
 ## Key Analyses Performed
-**Analysis of Account Balances:** Calculated the average account balance for each account type.
-**Currency Exchange Rate Impact:** Analyzed the impact of currency exchange rates on transaction amounts by converting all transactions to a standard currency.
-**Branch Activity Analysis:** Investigated which branch had the highest number of transactions.
-**Interest Rate and Balance Correlation:** Analyzed the correlation between interest rates and account balances using DAX.
-**Loan Amount and Credit Score Relation:** Examined the relationship between loan amounts and credit scores.
-**Transaction Trends Over Time:** Analyzed transaction trends to identify patterns or seasonal fluctuations.
-**Customer Loyalty Analysis:** Calculated the duration of each account's relationship with the bank.
-**High-Value Transaction Analysis:** Identified high-value transactions and analyzed their characteristics.
-**Analysis of Transaction Time Patterns:** Investigated patterns in transaction times.
-**Credit Score Distribution:** Analyzed the distribution of credit scores among account holders.
-**Correlation Between Account Age and Balance:** Explored the correlation between account age and balance.
-**Performance Rating of Branches:** Created a measure to rate branches based on transaction volume and value.
-**Extracting Key Information:** Extracted employment sector, years at current residence, and city of residence from the 'AccountHolderDetails' column.
-**Advanced DAX:** Risk Assessment Model: Developed a risk assessment model using transaction patterns, account balances, and credit scores.
-**Customer Demographics and Transaction Behavior:** Analyzed transaction behavior based on customer demographics.
-**Branch and Account Type Influence on Transactions:** Investigated the influence of branches and account types on transaction values and types.
+**Analysis of Account Balances:** Calculated the average account balance for each account type.<br>
+**Currency Exchange Rate Impact:** Analyzed the impact of currency exchange rates on transaction amounts by converting all transactions to a standard currency.<br>
+**Branch Activity Analysis:** Investigated which branch had the highest number of transactions.<br>
+**Interest Rate and Balance Correlation:** Analyzed the correlation between interest rates and account balances using DAX.<br>
+**Loan Amount and Credit Score Relation:** Examined the relationship between loan amounts and credit scores.<br>
+**Transaction Trends Over Time:** Analyzed transaction trends to identify patterns or seasonal fluctuations.<br>
+**Customer Loyalty Analysis:** Calculated the duration of each account's relationship with the bank.<br>
+**High-Value Transaction Analysis:** Identified high-value transactions and analyzed their characteristics.<br>
+**Analysis of Transaction Time Patterns:** Investigated patterns in transaction times.<br>
+**Credit Score Distribution:** Analyzed the distribution of credit scores among account holders.<br>
+**Correlation Between Account Age and Balance:** Explored the correlation between account age and balance.<br>
+**Performance Rating of Branches:** Created a measure to rate branches based on transaction volume and value.<br>
+**Extracting Key Information:** Extracted employment sector, years at current residence, and city of residence from the 'AccountHolderDetails' column.<br>
+**Advanced DAX:** Risk Assessment Model: Developed a risk assessment model using transaction patterns, account balances, and credit scores.<br>
+**Customer Demographics and Transaction Behavior:** Analyzed transaction behavior based on customer demographics.<br>
+**Branch and Account Type Influence on Transactions:** Investigated the influence of branches and account types on transaction values and types.<br>
 **Time Series Forecasting of Transactions:** Performed time series forecasting of transaction volumes.
 
 ## Dashboard Building
 The project culminated in the creation of a comprehensive, interactive Power BI dashboard, segmented into four linked dashboards:
 
-**Transactions and Balance Analysis:** Analyzed transaction trends, identified high-value and rare transaction types, and conducted account balance analysis.
-**Interest Rate, Credit Score, and Loan Analysis:** Analyzed the distribution of credit scores, interest rates, and provided a drill-down of loan amounts by city and sector.
-**Branch and Customer Analysis:** Analyzed customer demographics, sector-wise transaction behavior, and branch performance.
-**Insights Dashboard:** Summarized key insights and findings from the analyses.
+**Transactions and Balance Analysis:** Analyzed transaction trends, identified high-value and rare transaction types, and conducted account balance analysis.<br>
+**Interest Rate, Credit Score, and Loan Analysis:** Analyzed the distribution of credit scores, interest rates, and provided a drill-down of loan amounts by city and sector.<br>
+**Branch and Customer Analysis:** Analyzed customer demographics, sector-wise transaction behavior, and branch performance.<br>
+**Insights Dashboard:** Summarized key insights and findings from the analyses.<br>
 The dashboards incorporated slicers, filters, and page navigation to enhance interactivity and user experience.
 
 ## Conclusion
