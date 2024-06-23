@@ -1,5 +1,8 @@
 # Banking Analytics with Power BI
 
+#### Link to The Project:
+[PowerBI Project](https://drive.google.com/drive/folders/1jBRbqN_XyVy9nWvxQwEorscXqG020Hj0?usp=sharing)
+
 ## Project Overview
 Welcome to the Banking Analytics project repository!<br>
 This project leverages Power BI to unlock financial insights from comprehensive banking datasets. The analysis is designed to guide strategic decisions in customer relationship management, risk assessment, and product offerings within the banking sector.
